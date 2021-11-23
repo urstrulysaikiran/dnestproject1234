@@ -1,5 +1,5 @@
 
 
-this is my first bug in code
+this is my first bug in code done by me
 
 this is the correct code
